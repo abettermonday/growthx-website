@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 52" fill="none">
+  <!-- Chevron arrows -->
+  <g>
+    <!-- Bottom (larger) chevron -->
+    <polyline points="6,38 16,28 26,38" stroke="#3AB87A" stroke-width="4.5" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+    <!-- Top (smaller) chevron -->
+    <polyline points="10,30 16,24 22,30" stroke="#1A6E8E" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  </g>
+  <!-- "Growth" text -->
+  <text x="36" y="38" font-family="Inter, sans-serif" font-weight="700" font-size="24" fill="#0D2B5E" letter-spacing="-0.5">Growth</text>
+  <!-- Superscript "x" -->
+  <text x="152" y="26" font-family="Inter, sans-serif" font-weight="700" font-size="14" fill="#0D2B5E">x</text>
+</svg>
