@@ -215,6 +215,8 @@ img { max-width: 100%; display: block; }
 
 .approach__block {
   max-width: 680px;
+  margin: 0 auto;
+  text-align: center;
 }
 
 .approach__body p {
@@ -308,6 +310,7 @@ img { max-width: 100%; display: block; }
 /* === TESTIMONIALS === */
 .testimonials {
   padding: var(--space-2xl) 0;
+  text-align: center;
 }
 
 .testimonials__grid {
